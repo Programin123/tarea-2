@@ -1,0 +1,7 @@
+p[name="uno"]{color: DarkBlue; font-size: 50px;}
+p[name="dos"]{color: green; font-size: 60px;}
+p[name="tres"]{color: #00edf5; font-size: 70px;}
+body{
+    background-color: burlywood;
+    text-align: center;
+}

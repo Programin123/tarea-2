@@ -1,0 +1,26 @@
+.flexbox{
+    display: flex;
+    border: 2px solid red;
+    background-color: greenyellow;
+    padding: 15px;
+    width: 55%;
+}
+#blanco{
+    padding: 55px;
+    margin: 50px;
+    background-color: white;
+}
+#rosado{
+    padding: 55px;
+    margin: 50px;
+    background-color: pink;
+}
+#celeste{
+    padding: 55px;
+    margin: 50px;
+    background-color: skyblue;
+}
+
+body{
+    background-color: rgb(182, 182, 182);
+}

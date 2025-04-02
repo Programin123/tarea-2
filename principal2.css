@@ -1,0 +1,11 @@
+p:nth-child(odd){color: chartreuse;}
+p:nth-child(even){color: blue;}
+
+body{
+    background-color: salmon;
+}
+
+div{
+    font-size: 55px;
+    text-align: center;
+}
